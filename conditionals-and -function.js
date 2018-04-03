@@ -18,7 +18,7 @@ let greaterThanEq = 5 >= 5;
 let lessThanEq = 4 <= 9;
 
 // Not Equals
-Let notEquals = 5 !== 2;
+let notEquals = 5 !== 2;
 
 
 
